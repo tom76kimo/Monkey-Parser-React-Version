@@ -1,0 +1,55 @@
+.Container{
+    color: #222;
+}
+
+.Container .fb-like {
+    margin: 0px 0px 0px 60px;
+}
+
+.Container .title-bar {
+    color: #222;
+}
+
+.Container .search-bar {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Container .search-btn {
+    width: 200px;
+    margin-top: 10px;
+}
+
+.Container .result-element {
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 10px;
+    position: relative;
+    color: #222;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Container .loading-icon {
+    width: 50px;
+    margin-top: 10px;
+}
+
+.Container .link {
+    position: absolute;
+    right: 3px;
+    bottom: 0;
+    font-size: 11px;
+}
+
+.Container .page-count {
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.Container .hide {
+    display: none;
+}
